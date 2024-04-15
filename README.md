@@ -39,9 +39,9 @@
 
 #### 2. [십삼지신이다냥 - RPG](https://github.com/suhyunChun/13-zodiac-animals-meow)
 
-#### 3. [테트리스 - 개인프로젝트](https://github.com/suhyunChun/Assignment_Sample_Game_Tetris))
+#### 3. [테트리스 - 개인프로젝트](https://github.com/suhyunChun/Assignment_Sample_Game_Tetris)
 
-#### 4. [ATM 프로그](https://github.com/suhyunChun/Assignment_ATM)
+#### 4. [ATM 프로그램](https://github.com/suhyunChun/Assignment_ATM)
 
 #### 5. [우주탐정코고로 - 비행슈팅게임](https://github.com/suhyunChun/Space-Detective-556)
 
