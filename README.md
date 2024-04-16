@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on React / Frontend Developer 
 - 🌱 I’m currently learning **Unity**
-- 📫 How to reach me: **wjstngus22@naver.com** / **jsuyn0423@gmail.com**
+- 📫 How to reach me: **wjstngus22@naver.com** 
 
 
 
