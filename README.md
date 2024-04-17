@@ -28,7 +28,6 @@
 
 #### 4. [채팅창](https://github.com/suhyunChun/Wanted_pre_onboarding-5st_setting)
 
-#### 5. [모바일버전 카테고리 및 제품 설명](https://github.com/suhyunChun/15_06th_doubleNC)
 
 
 ### 유니티 
