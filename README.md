@@ -22,15 +22,13 @@
 ### 웹
 #### 1. [Day Logger](https://github.com/suhyunChun/final_project)
 
-#### 2. [환율계산기](https://github.com/suhyunChun/Wanted_pre_onboarding-1st_calculate_project)
+#### 2. [제품 페이지](https://github.com/suhyunChun/Wanted_pre_onboarding-2st_product_add)
 
-#### 3. [제품 페이지](https://github.com/suhyunChun/Wanted_pre_onboarding-2st_product_add)
+#### 3. [요청 페이지](https://github.com/suhyunChun/Wanted_pre_onboarding-4st_request)
 
-#### 4. [요청 페이지](https://github.com/suhyunChun/Wanted_pre_onboarding-4st_request)
+#### 4. [채팅창](https://github.com/suhyunChun/Wanted_pre_onboarding-5st_setting)
 
-#### 5. [채팅창](https://github.com/suhyunChun/Wanted_pre_onboarding-5st_setting)
-
-#### 6. [모바일버전 카테고리 및 제품 설명](https://github.com/suhyunChun/15_06th_doubleNC)
+#### 5. [모바일버전 카테고리 및 제품 설명](https://github.com/suhyunChun/15_06th_doubleNC)
 
 
 ### 유니티 
