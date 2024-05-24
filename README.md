@@ -30,13 +30,4 @@
 
 
 
-### 유니티 
-
-#### 1. [미니알피지](https://github.com/suhyunChun/TeamProjectMiniRPG)
-
-#### 2. [십삼지신이다냥 - RPG](https://github.com/suhyunChun/13-zodiac-animals-meow)
-
-#### 3. [테트리스 - 개인프로젝트](https://github.com/suhyunChun/Assignment_Sample_Game_Tetris)
-
-
 
